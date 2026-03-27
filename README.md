@@ -8,3 +8,11 @@
 
 > [!NOTE]
 > Мої Tableau дашборди опубліковані тут [Tableau Public](https://public.tableau.com/app/profile/anastasia.zinovets/viz/Russianmassmissileanddroneattacks/Story1)
+
+## Data preparation
+
+Джерело: https://t.me/kpszsu
+
+Основні файли: 
+- [Необроблені дані](/data/Shelling_raw_data.csv) → [Оброблпені дані](/data/Shelling_data_final.xlsx)
+- [Python Notebook](Massive_shelling_data_extraction.ipynb)
