@@ -47,7 +47,11 @@
 ## Tableau Dashboards
 
 Dashboard 1
-<img src="/visualizations/united_numbers.png" width="700" height="500">
+
+<img src="/visualizations/dashboard_1.png" width="700" height="500">
 
 Dashboard 2
-<img src="/visualizations/united_numbers.png" width="700" height="500">
+
+<img src="/visualizations/dashboard_2.png" width="700" height="500">
+
+Перший сконцентрований на загальному огляді динаміки обстрілів. Другий - на ефективності роботи ППО у різних категоріях озброєнь. Обидва дашборди включають фільтри для місяців року.
