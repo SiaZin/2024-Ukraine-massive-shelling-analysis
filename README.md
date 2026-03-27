@@ -1,9 +1,10 @@
 # 2024-Ukraine-massive-shelling-analysis
-Overview of massive shelling of Ukraine's territory that included strategic aviation. Data is gathered through the official telegram channel of Air Forces of Ukraine https://t.me/kpszsu
+Аналіз масованих обстрілів території України із залученням стратегічної авіації. Дані зібрано на основі повідомлень офіційного Telegram-каналу Повітряних сил України https://t.me/kpszsu
 
-_In process..._
+> [!IMPORTANT]
+> Я не маю прямого стосунку до військової сфери й не володію професійною експертизою в цій темі. Тому в класифікаціях і висновках можуть бути певні неточності. Це дослідження виконане виключно з особистого громадянського інтересу.
+> 
+> Інформація в цьому дослідженні ґрунтується на звітах Повітряних сил України, опублікованих після кожної масованої атаки. З огляду на безперервні російські удари із застосуванням різних видів озброєння, ці звіти не завжди можуть давати повну вичерпну картину. Наприклад, у них можуть бути відсутні дані про керовані авіаційні бомби або окремі типи безпілотних літальних апаратів.
 
-**Disclaimer:**
-
-I have no direct connection to the military, nor do I possess professional expertise in this subject. Therefore, there may be some inaccuracies in classifications and conclusions. This analysis is conducted purely out of personal civic interest.
-Additionally, the information in this study is based on reports from Ukraine's Air Force following each massive shelling. Given the continuous Russian attacks using various weapons, these reports may not always provide a fully comprehensive picture. For instance, data on guided bomb units or certain types of unmanned aerial vehicles may be omitted.
+> [!NOTE]
+> Мої Tableau дашборди опубліковані тут [Tableau Public](https://public.tableau.com/app/profile/anastasia.zinovets/viz/Russianmassmissileanddroneattacks/Story1)
