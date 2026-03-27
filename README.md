@@ -9,6 +9,13 @@
 > [!NOTE]
 > Мої Tableau дашборди опубліковані тут [Tableau Public](https://public.tableau.com/app/profile/anastasia.zinovets/viz/Russianmassmissileanddroneattacks/Story1)
 
+## Repository Structure
+
+- `data/` — необроблені дані (.csv) та оброблені дані (.xlsx)
+- `visualizations/` — скріншоти дашбордів та excel-файлу
+- `Massive_shelling_data_extraction.ipynb` — ipynb file для збирання даних з телеграм-каналу
+- `Shellings_2024.twbx` — twbx (Tableau Packaged Workbook)
+
 ## Data preparation
 
 Джерело: https://t.me/kpszsu
