@@ -43,3 +43,11 @@
 - Гіперзвукова корабельна ракета 3М22 «Циркон» - 17.11.2024
 - Зенітні керовані ракети С-300/С-400
 - Міжконтинентальна балістична ракета "Орєшнік" - 21.11.2024
+
+## Tableau Dashboards
+
+Dashboard 1
+<img src="/visualizations/united_numbers.png" width="700" height="500">
+
+Dashboard 2
+<img src="/visualizations/united_numbers.png" width="700" height="500">
